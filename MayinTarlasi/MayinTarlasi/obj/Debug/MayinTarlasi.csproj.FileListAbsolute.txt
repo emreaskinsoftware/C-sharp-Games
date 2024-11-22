@@ -1,0 +1,10 @@
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\emre2\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
