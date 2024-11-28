@@ -1,0 +1,10 @@
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Emre\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.flapybird.resources
